@@ -9,7 +9,7 @@ import { Box } from '@mui/material';
 import CheckoutPage from './Pages/CheckoutPage';
 import { LocalizationProvider } from '@mui/x-date-pickers';
 import { AdapterDayjs } from '@mui/x-date-pickers/AdapterDayjs';
-import AboutPage from './pages/AboutPage'; // Import the new AboutPage
+import AboutPage from './Pages/AboutPage'; // Import the new AboutPage
 import PaymentConfirmationPage from './Pages/Payment';
 import PaymentSuccessPage from './Pages/PaymentSuccess';
 import EventsPage from './Pages/Events';
