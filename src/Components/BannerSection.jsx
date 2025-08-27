@@ -1,4 +1,4 @@
-// src/components/BannerSection.jsx
+// src/Components/BannerSection.jsx
 import React from 'react';
 import Slider from 'react-slick';
 import { Box, Typography } from '@mui/material';

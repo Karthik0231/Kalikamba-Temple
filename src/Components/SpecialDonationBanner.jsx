@@ -1,4 +1,4 @@
-// components/SpecialDonationBanner.jsx
+// Components/SpecialDonationBanner.jsx
 import React from 'react';
 import { Box, Typography, Button } from '@mui/material';
 import TempleHinduIcon from '@mui/icons-material/TempleHindu';

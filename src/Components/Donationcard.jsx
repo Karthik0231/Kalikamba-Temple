@@ -1,4 +1,4 @@
-// components/DonationCard.jsx
+// Components/DonationCard.jsx
 import React from 'react';
 import {
   Card,

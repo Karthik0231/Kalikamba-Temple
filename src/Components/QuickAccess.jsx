@@ -1,4 +1,4 @@
-// components/QuickInfoBanner.jsx
+// Components/QuickInfoBanner.jsx
 import React from 'react';
 import { Box, Button, Typography, Card, CardContent, useTheme } from '@mui/material';
 import Slider from 'react-slick';

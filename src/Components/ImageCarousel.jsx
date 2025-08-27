@@ -43,7 +43,7 @@ function ImageCarousel({ images, height = '400px', autoPlay = true, interval = 5
           color: theme.palette.text.secondary,
           my: 4,
           borderRadius: theme.shape.borderRadius,
-          boxShadow: theme.components.MuiPaper.styleOverrides.root.boxShadow,
+          boxShadow: theme.Components.MuiPaper.styleOverrides.root.boxShadow,
         }}
       >
         <Typography variant="h6">No images to display</Typography>
@@ -62,7 +62,7 @@ function ImageCarousel({ images, height = '400px', autoPlay = true, interval = 5
         overflow: 'hidden',
         my: 4,
         borderRadius: theme.shape.borderRadius,
-        boxShadow: theme.components.MuiPaper.styleOverrides.root.boxShadow,
+        boxShadow: theme.Components.MuiPaper.styleOverrides.root.boxShadow,
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',

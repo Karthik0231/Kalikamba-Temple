@@ -1,4 +1,4 @@
-// components/TempleEventsSection.jsx
+// Components/TempleEventsSection.jsx
 import React from 'react';
 import {
   Box,

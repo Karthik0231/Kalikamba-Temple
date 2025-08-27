@@ -13,9 +13,9 @@ import {
   Zoom
 } from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';
-import SevaCard from '../components/SevaCard';
-import SevaInfoDialog from '../components/SevaInfoDialog';
-import SevaSelectionBar from '../components/SevaSelectionBar';
+import SevaCard from '../Components/SevaCard';
+import SevaInfoDialog from '../Components/SevaInfoDialog';
+import SevaSelectionBar from '../Components/SevaSelectionBar';
 import { useNavigate } from 'react-router-dom';
 
 // Dummy Seva Data (replace with actual data from an API later)
